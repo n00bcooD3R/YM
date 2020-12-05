@@ -1,0 +1,10 @@
+{"version_code":205513001,"content":"
+<p>Update v10.0</p>
+
+
+<li> New Base Updated to 2.20.205.13 Stable Base</li>
+
+
+
+","url":"https://sites.google.com/view/whatsappym/descargarymwa"
+}

@@ -1,12 +1,20 @@
-{"version_code":205513001,"content":"
-<p>Update v11.5</p>
+{"version_code":206514021,"content":"
+<p> تحديث|Update 11.5</p>
 
 
-<li> New Base Updated to 2.20.205.13 Stable Base</li>
-<li> New Base Updated to 2.20.205.13 Stable Base</li>
-<li> New Base Updated to 2.20.205.13 Stable Base</li>
-<li> New Base Updated to 2.20.205.13 Stable Base</li>
+<li> التحديث لنسخة الماركت 2.20.202.18 المستقرة</li>
+<li> تفعيل كافة الميزات التجريبية لشركة الواتساب</li>
+<li> اصلاح ميزة اخفاء مشاهدة الحالة</li>
+<li> اصلاحات متعلقة باستقرار التطبيق</li>
 
+
+<li> New Base Updated to 2.20.202.18 Stable Base</li>
+<li> Chats can now be muted forever instead of only 1 year.</li>
+<li> Enable disappearing messages feature.</li>
+<li> Enable all hidden features </li>
+<li> Fixed Hide view status</li>
+<li> Bugs fixes and speed improvements...</li>
+ 
 
 
 ","url":"https://sites.google.com/view/whatsappym/descargarymwa"

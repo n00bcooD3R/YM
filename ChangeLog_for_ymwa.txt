@@ -1,15 +1,13 @@
 {"version_code":205514021,"content":"
-<p>Update 11.5</p>
+<p>Actualizar a YMWhatsApp+ 11.0</p>
 
 
 
-<li> New Base Updated to 2.20.202.18 Stable Base</li>
-<li> Chats can now be muted forever instead of only 1 year.</li>
-<li> Enable disappearing messages feature.</li>
-<li> Enable all hidden features </li>
-<li> Fixed Hide view status</li>
-<li> Bugs fixes and speed improvements...</li>
- 
+<li>PRUEBA</li>
+<li>PRUEBA</li>
+<li>PRUEBA</li>
+<li>PRUEBA</li>
+
 
 
 ","url":"https://sites.google.com/view/whatsappym/descargarymwa"

@@ -1,5 +1,5 @@
-{"version_code":205513001,"content":"
-<p>Actualizar a YMWhatsApp+ 0.10</p>
+{"version_code":205513002,"content":"
+<p>Actualizar a YMWhatsApp+ 10.0</p>
 
 
 

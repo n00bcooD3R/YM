@@ -1,0 +1,14 @@
+{"version_code":205624001,"content":"
+<p>Actualizar a YMWhatsApp Business v3.0</p>
+
+
+
+<li>PRUEBA</li>
+<li>PRUEBA</li>
+<li>PRUEBA</li>
+<li>PRUEBA</li>
+
+
+
+","url":"https://sites.google.com/view/whatsappym/descargarymwab"
+}

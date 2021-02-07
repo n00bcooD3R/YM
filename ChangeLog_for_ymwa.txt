@@ -1,18 +1,1 @@
-{"version_code":210113001,"content":"
-<p>Actualizacion YMWHATSAPP V13.00</p>
 
-
-<li>Nueva Base Actualizada a la 2.20.206.24</li>
-<li>[Nuevo] Status Splitter (Cortador de estados a 30 segundos)(Fouad)</li>
-<li>[Nuevo] Estilo de inicio (Old Ui 2014)</li>
-<li>[Nuevo] Ahora puedes compartir los estados de tus contactos en otras redes sociales(3 puntos > Share...)(@NorahMods)</li>
-<li>[Agregados] Nuevos Emojis</li>
-<li>[Activadas] Algunas caracteristicas ocultas</li>
-<li>[Coregido] Descarga los estados de tus contactos incluso si el contacto esta silenciado</li>
-<li>[Coregido] Errores detectados en la version pasada</li>
-
-
-
-
-","url":"https://ymmods0.blogspot.com/2021/01/YMWhatsApp.html"
-}

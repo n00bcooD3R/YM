@@ -1,5 +1,5 @@
 {
-	"version": "12.1",
+	"version": "12.0",
 	"download": "https://ymmods0.blogspot.com/2021/01/YMWhatsApp.html",
 	"update": [
 		{

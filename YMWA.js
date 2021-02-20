@@ -4,15 +4,15 @@
 	"update": [
 		{
 			"languaje": "en",
-			"changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/clog.html"
+			"changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/changelog-en.html"
 		},
 		{
 			"languaje": "es",
-			"changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/clog.html"
+			"changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/changelog-en.html"
 		},
 		{
 			"languaje": "pt",
-			"changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/clog.html"
+			"changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/changelog-en.html"
 		}
 	]
 }

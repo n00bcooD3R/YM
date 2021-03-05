@@ -4,11 +4,11 @@
 	"update": [
 		{
 			"languaje": "en",
-			"changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/changelog-en.html"
+			"changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/changelog-B-en.html"
 		},
 		{
 			"languaje": "es",
-			"changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/changelog-es.html"
+			"changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/changelog-B-es.html"
 		}
 	]
 }

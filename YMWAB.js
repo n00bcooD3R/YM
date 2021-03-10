@@ -1,5 +1,5 @@
 {
-	"version": "5.0",
+	"version": "5.0.1",
 	"download": "https://ymmods0.blogspot.com/2021/01/YMWhatsAppBusiness.html",
 	"update": [
 		{

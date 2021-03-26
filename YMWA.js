@@ -12,7 +12,7 @@
 		},
 		{
 			"languaje": "pt",
-			"changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/changelog-en.html"
+			"changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/changelog-pt.html"
 		}
 	]
 }

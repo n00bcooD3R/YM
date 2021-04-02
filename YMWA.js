@@ -1,6 +1,6 @@
 {
 	"version": "14.0",
-	"download": "https://ymmods0.blogspot.com/2021/01/YMWhatsApp.html",
+	"download": "https://ymmods-official.blogspot.com/2021/04/ymwa.html",
 	"update": [
 		{
 			"languaje": "en",

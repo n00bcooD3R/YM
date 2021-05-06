@@ -1,6 +1,6 @@
 {
 	"version": "5.0.1",
-	"download": "https://ymmods0.blogspot.com/2021/01/YMWhatsAppBusiness.html",
+	"download": "https://ymmods-official.blogspot.com/2021/04/ymwab.html",
 	"update": [
 		{
 			"languaje": "en",

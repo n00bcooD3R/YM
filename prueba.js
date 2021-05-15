@@ -1,5 +1,5 @@
 {
-	"version": "15.0",
+	"version": "20.0",
 	"download": "https://ymmods-official.blogspot.com/2021/04/ymwa.html",
 	"update": [
 		{

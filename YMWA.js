@@ -1,5 +1,5 @@
 {
-	"version": "17.1",
+	"version": "18.0",
 	"download": "https://ymmods-official.blogspot.com/2021/04/ymwa.html",
 	"update": [
 		{
